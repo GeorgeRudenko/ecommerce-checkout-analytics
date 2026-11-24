@@ -1,0 +1,4 @@
+﻿first_outcome,users,retried,ordered,order_pct
+delivery_price_changed,90,42,30,33.3
+payment_failed,35,20,14,40.0
+technical_error,25,15,11,44.0
